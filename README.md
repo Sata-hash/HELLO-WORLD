@@ -13,3 +13,6 @@ Built-in Modules are:http,fs,crypto.
 We can import other files by 'require' function to the main file.
 We can then use/import modules of that file to be used in the main function by "module.exports.."
 
+Day 3:
+Learning File Handling in NodeJS.
+
