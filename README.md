@@ -16,3 +16,9 @@ We can then use/import modules of that file to be used in the main function by "
 Day 3:
 Learning File Handling in NodeJS.
 
+Day 4:
+Learning Architecture of NodeJS.
+Understanding blocking and non-blocking requests.
+For a non-blocking request,the event loop simply processes it and returns a response.
+For a blocking request,the event loop sends it to a thread pool,assign workers/threads from the pool,after the work is done,it returns the result.
+
