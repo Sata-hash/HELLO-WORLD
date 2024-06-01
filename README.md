@@ -22,3 +22,6 @@ Understanding blocking and non-blocking requests.
 For a non-blocking request,the event loop simply processes it and returns a response.
 For a blocking request,the event loop sends it to a thread pool,assign workers/threads from the pool,after the work is done,it returns the result.
 
+Day 5:
+Creating HTTP Server in NodeJS.
+
