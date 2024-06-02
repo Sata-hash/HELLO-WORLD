@@ -25,3 +25,6 @@ For a blocking request,the event loop sends it to a thread pool,assign workers/t
 Day 5:
 Creating HTTP Server in NodeJS.
 
+Day 6:
+Handling URL's in NodeJS.
+
