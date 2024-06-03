@@ -28,3 +28,5 @@ Creating HTTP Server in NodeJS.
 Day 6:
 Handling URL's in NodeJS.
 
+Day 7:
+ HTTP Methods in Expressjs.
